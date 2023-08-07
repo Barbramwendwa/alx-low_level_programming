@@ -1,23 +1,12 @@
 #include "main.h"
 
 /**
- * main - Prints putchar
+ * main - check the code
  *
- * Return: Alwas (0) success
- *
+ * Return: Always 0.
  */
-
 int main(void)
 {
-        putchar('_')
-        putchar('p')
-        putchar('u')
-        putchar('t')
-        putchar('c')
-        putchar('h')
-        putchar('a')
-        putchar('r')
-        putchar('\n')
-
-        return (0);
+    print_alphabet();
+    return (0);
 }
