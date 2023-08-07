@@ -3,7 +3,7 @@
 /**
  * main - Prints putchar
  *
- * Return: Alwas (0) success
+ * Return: Always (0) success
  *
  */
 
